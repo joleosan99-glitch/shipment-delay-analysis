@@ -1,4 +1,5 @@
-🚢 Shipment Delay Analysis – Case Study
+🚢 Shipment Delay Analysis (Power BI, SQL, Pandas) – Case Study
+Power BI • SQL • Python • Pandas • Data Cleaning • KPI • Dashboard
 
 📌 Project Overview
 This project analyzes shipment delays in container shipping operations using historical vessel movement and port event data.
